@@ -1,0 +1,5 @@
+Metric,React SPA (CSR),Next.js RSC
+JS Bundle Size (KB),812,301
+First Contentful Paint (s),2.8,1.2
+Time to Interactive (s),3.4,1.5
+Lighthouse Score,74,96

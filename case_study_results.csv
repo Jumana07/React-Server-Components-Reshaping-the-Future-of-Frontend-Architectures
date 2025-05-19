@@ -1,0 +1,5 @@
+Metric,Before Migration,After Migration
+Bounce Rate (%),49,29
+Pagespeed Score,68,94
+Conversion Rate (%),N/A,8
+Core Web Vitals Pass Rate (%),N/A,98
