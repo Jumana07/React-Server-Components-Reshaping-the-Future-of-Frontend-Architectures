@@ -59,13 +59,3 @@ This file contains a mock product list used in the server component code example
   }
 ]
 
-📫 Contact
-For any questions, please contact:
-
-Jumana Haseen M
-
-Email: jumanahaseen07@gmail.com
-
-GitHub: github.com/Jumana07
-
-LinkedIn: linkedin.com/in/jumana-haseen-3608718b
