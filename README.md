@@ -58,8 +58,7 @@ This file contains a mock product list used in the server component code example
     "price": 199.99
   }
 ]
-📄 License
-This dataset is shared under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. You are free to use, distribute, and adapt the data, provided you give appropriate credit.
+
 📫 Contact
 For any questions, please contact:
 
